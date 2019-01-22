@@ -1,9 +1,9 @@
 # Laravel-API
 or Laravel Resource
 There are 2 folders: "article_crud" and "article_crud_api"
-The two are independent projects
+Each is an individual Laravarel project.
 
-# article_crud
+# article_crud_api
 This contains the API of the CRUD application. It can be executed alone using your browser or better still, POSTMAN.
 
 # article_crud
